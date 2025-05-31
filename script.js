@@ -276,7 +276,7 @@ document.addEventListener('DOMContentLoaded', function() {
     });
 
     // Set default city
-    cityInput.value = '';
+    cityInput.value = 'Bangalore';
     
     // Add location button (you can add this to HTML if needed)
     // Uncomment below to automatically get user's location on page load
